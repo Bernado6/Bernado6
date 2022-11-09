@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bernado6
 - 👀 I’m interested in Cloud Computing, Data Science and Web Development.
 - 🌱 I’m currently learning cloud devops, Cloud solution Architect.
-- 💞️ I’m looking to collaborate on Data science and cloud devops
+- 💞️ I’m looking to collaborate on Data science and cloud devops projects
 - 📫 How to reach me benardyegon9819@gmail.com
 
 <!---
