@@ -5,7 +5,7 @@ Welcome to my GitHub profile 🙏🏼
 ---
 ## About Me:
 <p align="left">
-  <img src="https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/master/Images/Icons/brian_kipkoech_icon.png" width="200" height="200">
+  <img src="https://github.com/Bernado6/Data-Science-Personal-Website/blob/master/src/assets/me.jpg" width="200" height="200">
 </p>
 
 ### Data Scientist | Machine Learning Engineer 
