@@ -29,7 +29,6 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 #### Professional Links:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/benard-kipngeno)
-{:target="_blank" rel="noopener"}
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Bernado6)
 
 
