@@ -5,7 +5,7 @@ Welcome to my GitHub profile 🙏🏼
 ---
 ## About Me:
 <p align="left">
-  <img src="https://github.com/Bernado6/Data-Science-Personal-Website/blob/master/src/assets/me.jpg" object-fit="cover" border-radius="50px" width="200px" height="200px">
+  <img src="https://github.com/Bernado6/Bernado6/blob/main/Images/Icons/Ben-modified.png" width="200px" height="200px">
 </p>
 
 ### Data Scientist | Machine Learning Engineer 
