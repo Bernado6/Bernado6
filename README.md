@@ -8,7 +8,7 @@ Welcome to my GitHub profile 🙏🏼
   <img src="https://github.com/Bernado6/Bernado6/blob/main/Images/Icons/Ben-modified.png" width="200px" height="200px">
 </p>
 
-### Data Scientist | Machine Learning Engineer 
+### Full-Stack Developer | Data Scientist | Machine Learning Engineer 
 
 *I create algorithms and models that help computers learn from data and make forecasts, resulting in valuable business insights.*
 
