@@ -40,7 +40,8 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 :comet: Artificial Intelligence <br>
 :comet: Computer Vision <br>
 :comet: Deep Learning <br>
-:comet: AWS Machine Learning Services<br>
+:comet: Cloud Machine Learning Services<br>
+:comet: Generative Artificial Intelligence<br>
 :comet: MLOps <br>
 :comet: Cloud Data Analytics services<br>
 :comet: NLP
