@@ -4,18 +4,18 @@
 
 ---
 ## About Me:
-<p align="left">
+<!-- <p align="left">
   <img src="https://github.com/Bernado6/Bernado6/blob/main/Images/Icons/Ben-modified.png" width="200px" height="200px">
-</p>
+</p> -->
 
-### Full-Stack Developer | Data Scientist | Machine Learning Engineer 
+### AI/ML Engineer | Data Scientist | Cloud Engineer ->  MLOps | BigData | DevOps| GenAI 
 
-*I create algorithms and models that help computers learn from data and make forecasts, resulting in valuable business insights.*
+*AS a AI/ML Engineer with expertise in Data Science, Cloud Engineering, and MLOps, focusing on integrating Big Data, DevOps, and GenAI to drive impactful solutions. With a robust background in machine learning, data pipelines, and cloud platforms like AWS, specialized in building scalable, efficient, and secure MLOps frameworks. I have robust experience in enterprise-level GenAI deployment, optimizing cost leadership strategies, and implementing data quality measures within MLOps infrastructures. I guide and and mentor AI/ML Enthusiasts, actively contributing to advancing AI and cloud solutions across multiple industries*
 
 ---
 ### Profile Summary
 
-As a data science and machine learning engineer with extensive experience in AWS cloud and DevOps, I am passionate about leveraging data and technology to drive business outcomes. I have a strong background in data analysis, statistics, and machine learning algorithms, and I am skilled in developing end-to-end data solutions that deliver insights and value to stakeholders.
+As an Machine Learning Engineer with extensive experience in Cloud and DevOps, I am passionate about leveraging data and technology to drive business outcomes. I have a strong background in data analytics, Statistics, and machine learning algorithms, and I am skilled in developing end-to-end data solutions that deliver insights and value to stakeholders.
 <br><br>
 I have worked on a wide range of projects, including predictive modeling, natural language processing, image recognition, recommendation systems, and DevOps automation. I am comfortable working with large datasets and developing scalable, cloud-based solutions that can handle complex data processing and analysis.
 <br><br>
@@ -41,8 +41,8 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 :comet: Computer Vision <br>
 :comet: Deep Learning <br>
 :comet: AWS Machine Learning Services<br>
-:comet: MLops <br>
-:comet: AWS Data Analytics services<br>
+:comet: MLOps <br>
+:comet: Cloud Data Analytics services<br>
 :comet: NLP
 
 ---
