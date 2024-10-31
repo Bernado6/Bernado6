@@ -10,7 +10,7 @@
 
 ### AI/ML Engineer | Data Scientist | Cloud Engineer ->  MLOps | BigData | DevOps| GenAI 
 
-*AS a AI/ML Engineer with expertise in Data Science, Cloud Engineering, and MLOps, focusing on integrating Big Data, DevOps, and GenAI to drive impactful solutions. With a robust background in machine learning, data pipelines, and cloud platforms like AWS, specialized in building scalable, efficient, and secure MLOps frameworks. I have robust experience in enterprise-level GenAI deployment, optimizing cost leadership strategies, and implementing data quality measures within MLOps infrastructures. I guide and and mentor AI/ML Enthusiasts, actively contributing to advancing AI and cloud solutions across multiple industries*
+*AI/ML Engineer with expertise in Data Science, Cloud Engineering, and MLOps, focusing on integrating Big Data, DevOps, and GenAI to drive impactful solutions. With a robust background in machine learning, data pipelines, and cloud platforms like AWS, specialized in building scalable, efficient, and secure MLOps frameworks. I have robust experience in enterprise-level GenAI deployment, optimizing cost leadership strategies, and implementing data quality measures within MLOps infrastructures. I guide and and mentor AI/ML Enthusiasts, actively contributing to advancing AI and cloud solutions across multiple industries*
 
 ---
 ### Profile Summary
